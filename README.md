@@ -1,12 +1,10 @@
 # Todo-List-using-React
 
 <p>
-  # Install dependencies
-  npm install
-
-  # Serve on localhost:3000
-  npm start
-
-  # Build for production
-  npm run build
+  # Install dependencies<br>
+  num install<br>
+  # Serve on localhost:3000<br>
+  npm start<br>
+  # Build for production<br>
+  npm run build<br>
 </p>
