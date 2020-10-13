@@ -1,6 +1,6 @@
 # Todo-List-using-React
 
-<h1>Quick Start</h1>
+<h3>Quick Start</h3>
 <p>
   # Install dependencies<br>
   num install<br><br>
