@@ -1,4 +1,4 @@
-# Todo-List-using-React
+# Todo List using React
 
 ## Quick Start
 
