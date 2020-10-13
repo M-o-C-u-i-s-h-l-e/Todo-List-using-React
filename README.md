@@ -1,10 +1,11 @@
 # Todo-List-using-React
 
+<h1>Quick Start</h1>
 <p>
-  <!-- Install dependencies --><br>
+  # Install dependencies<br>
   num install<br><br>
-  <!-- Serve on localhost:3000 --><br>
+  # Serve on localhost:3000<br>
   npm start<br><br>
-  <!-- Build for production --><br>
+  # Build for production<br>
   npm run build<br>
 </p>
